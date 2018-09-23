@@ -1,0 +1,43 @@
+Initial neural network code
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Author:    Harsh Lal <harshlal028@gmail.com>
+# Date:      Thu Nov 9 13:42:45 2017 -0800
+#
+# On branch nnets
+# Changes to be committed:
+#	new file:   neuralNets/type1/input/titanic.mid
+#	new file:   neuralNets/type1/input/topgun.mid
+#	new file:   neuralNets/type1/midi_manipulation.py
+#	new file:   neuralNets/type1/out/rnn_generated_chord_0.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_1000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_10000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_11000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_12000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_13000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_14000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_15000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_16000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_17000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_18000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_19000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_2000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_20000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_3000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_4000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_5000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_6000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_7000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_8000.mid
+#	new file:   neuralNets/type1/out/rnn_generated_chord_9000.mid
+#	new file:   neuralNets/type1/rnn_midi.ipynb
+#	new file:   neuralNets/type1/rnn_midi.py
+#
+# Untracked files:
+#	.project
+#	.pydevproject
+#	.settings/
+#	neuralNets/type1/__pycache__/
+#
